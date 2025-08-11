@@ -35,7 +35,7 @@ Configured for admin-only access to the Filament panel, with a seeded admin user
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-org/laravel12-breeze-filament-starter.git
+git clone https://github.com/abmegypt/laravel12-breeze-filament-starter.git
 cd laravel12-breeze-filament-starter
 ```
 
